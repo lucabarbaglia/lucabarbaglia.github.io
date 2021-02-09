@@ -43,22 +43,12 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2021-01-15T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lucabarbaglia.github.io/publication-type/1/</loc>
     <lastmod>2021-01-15T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://lucabarbaglia.github.io/publication/2021_midas/</loc>
-    <lastmod>2021-01-15T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
     <lastmod>2021-01-15T00:00:00+01:00</lastmod>
   </url>
   
@@ -70,6 +60,11 @@
   <url>
     <loc>https://lucabarbaglia.github.io/publication/</loc>
     <lastmod>2021-01-15T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
