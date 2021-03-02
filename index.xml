@@ -230,6 +230,14 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Forecasting Loan Default in Europe with Machine Learning</title>
+      <link>https://lucabarbaglia.github.io/publication/2020_ed_default/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2020_ed_default/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Monitoring the Business Cycle with Fine-Grained, Aspect-Based Sentiment Extraction from News</title>
       <link>https://lucabarbaglia.github.io/publication/2020_dna_midas/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0100</pubDate>
@@ -273,7 +281,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-137928546&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-237651894&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -283,7 +291,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-137928546&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-237651894&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
