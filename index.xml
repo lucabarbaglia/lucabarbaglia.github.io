@@ -136,6 +136,14 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Fine-Grained, Aspect-Based Sentiment Analysis on Economic and Financial Lexicon</title>
+      <link>https://lucabarbaglia.github.io/publication/2021_eval/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2021_eval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exploring the Predictive Power of News and Neural Machine Learning Models for Economic Forecasting</title>
       <link>https://lucabarbaglia.github.io/publication/2021_midas/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0100</pubDate>
@@ -246,6 +254,14 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Household Debt and Economic Growth in Europe</title>
+      <link>https://lucabarbaglia.github.io/publication/2020_ed_macro/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2020_ed_macro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Monitoring the Business Cycle with Fine-Grained, Aspect-Based Sentiment Extraction from News</title>
       <link>https://lucabarbaglia.github.io/publication/2020_dna_midas/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0100</pubDate>
@@ -289,7 +305,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-859431267&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-953467218&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -299,7 +315,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-859431267&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-953467218&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

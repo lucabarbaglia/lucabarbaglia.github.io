@@ -73,6 +73,16 @@
   </url>
   
   <url>
+    <loc></loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lucabarbaglia.github.io/publication/2021_eval/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lucabarbaglia.github.io/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
@@ -84,11 +94,6 @@
   
   <url>
     <loc>https://lucabarbaglia.github.io/publication-type/1/</loc>
-    <lastmod>2021-01-15T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
     <lastmod>2021-01-15T00:00:00+01:00</lastmod>
   </url>
   
@@ -150,6 +155,11 @@
   <url>
     <loc>https://lucabarbaglia.github.io/publication/2020_forecastingwitheconomicnews/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lucabarbaglia.github.io/publication/2020_ed_macro/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
