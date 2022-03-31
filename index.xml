@@ -128,10 +128,26 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Forecasting with Economic News</title>
+      <link>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Testing Big Data in a Big Crisis: Nowcasting under COVID-19</title>
       <link>https://lucabarbaglia.github.io/publication/2022_testingbigdataincovid19/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://lucabarbaglia.github.io/publication/2022_testingbigdataincovid19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting GDP in Europe with Textual Data</title>
+      <link>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews_eu/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews_eu/</guid>
       <description></description>
     </item>
     
@@ -305,7 +321,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-215976438&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-482159763&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -315,7 +331,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-215976438&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-482159763&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

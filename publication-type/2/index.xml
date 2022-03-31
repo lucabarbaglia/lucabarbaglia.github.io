@@ -5,7 +5,7 @@
     <link>https://lucabarbaglia.github.io/publication-type/2/</link>
       <atom:link href="https://lucabarbaglia.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Luca Barbaglia 2022. This is a personal website: the views expressed are purely those of the writer and may not in any circumstance be regarded as stating an official position of the European Commission.</copyright><lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Luca Barbaglia 2022. This is a personal website: the views expressed are purely those of the writer and may not in any circumstance be regarded as stating an official position of the European Commission.</copyright><lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lucabarbaglia.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Forecasting with Economic News</title>
+      <link>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Testing Big Data in a Big Crisis: Nowcasting under COVID-19</title>
       <link>https://lucabarbaglia.github.io/publication/2022_testingbigdataincovid19/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://lucabarbaglia.github.io/publication/2022_testingbigdataincovid19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting GDP in Europe with Textual Data</title>
+      <link>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews_eu/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews_eu/</guid>
       <description></description>
     </item>
     
