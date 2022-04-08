@@ -5,7 +5,7 @@
     <link>https://lucabarbaglia.github.io/publication/</link>
       <atom:link href="https://lucabarbaglia.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Luca Barbaglia 2022. This is a personal website: the views expressed are purely those of the writer and may not in any circumstance be regarded as stating an official position of the European Commission.</copyright><lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Luca Barbaglia 2022. This is a personal website: the views expressed are purely those of the writer and may not in any circumstance be regarded as stating an official position of the European Commission.</copyright><lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lucabarbaglia.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Forecasting with Economic News</title>
       <link>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews/</link>
-      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Grained, Aspect-Based Sentiment Analysis on Economic and Financial Lexicon</title>
+      <link>https://lucabarbaglia.github.io/publication/2022_eval/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2022_eval/</guid>
       <description></description>
     </item>
     
@@ -41,14 +49,6 @@
       <link>https://lucabarbaglia.github.io/publication/2021_ed_default/</link>
       <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://lucabarbaglia.github.io/publication/2021_ed_default/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fine-Grained, Aspect-Based Sentiment Analysis on Economic and Financial Lexicon</title>
-      <link>https://lucabarbaglia.github.io/publication/2022_eval/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://lucabarbaglia.github.io/publication/2022_eval/</guid>
       <description></description>
     </item>
     

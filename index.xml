@@ -130,8 +130,16 @@ The variance of the distribution is $\sigma^{2}$.
     <item>
       <title>Forecasting with Economic News</title>
       <link>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews/</link>
-      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Grained, Aspect-Based Sentiment Analysis on Economic and Financial Lexicon</title>
+      <link>https://lucabarbaglia.github.io/publication/2022_eval/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2022_eval/</guid>
       <description></description>
     </item>
     
@@ -156,14 +164,6 @@ The variance of the distribution is $\sigma^{2}$.
       <link>https://lucabarbaglia.github.io/publication/2021_ed_default/</link>
       <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://lucabarbaglia.github.io/publication/2021_ed_default/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fine-Grained, Aspect-Based Sentiment Analysis on Economic and Financial Lexicon</title>
-      <link>https://lucabarbaglia.github.io/publication/2022_eval/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://lucabarbaglia.github.io/publication/2022_eval/</guid>
       <description></description>
     </item>
     
@@ -321,7 +321,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-482159763&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-643725981&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -331,7 +331,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-482159763&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-643725981&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
