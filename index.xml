@@ -5,7 +5,7 @@
     <link>https://lucabarbaglia.github.io/</link>
       <atom:link href="https://lucabarbaglia.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Luca Barbaglia</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Luca Barbaglia 2023. This is a personal website: the views expressed are purely those of the writer and may not in any circumstance be regarded as stating an official position of the European Commission.</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Luca Barbaglia 2024. This is a personal website: the views expressed are purely those of the writer and may not in any circumstance be regarded as stating an official position of the European Commission.</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lucabarbaglia.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Luca Barbaglia</title>
@@ -128,9 +128,18 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Household Debt and Economic Growth in Europe</title>
+      <link>https://lucabarbaglia.github.io/publication/2020_ed_macro/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2020_ed_macro/</guid>
+      <description>&lt;p&gt;s&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Forecasting GDP in Europe with Textual Data</title>
       <link>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews_eu/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://lucabarbaglia.github.io/publication/2022_forecastingwitheconomicnews_eu/</guid>
       <description></description>
     </item>
@@ -144,18 +153,18 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Testing Big Data in a Big Crisis: Nowcasting under COVID-19</title>
-      <link>https://lucabarbaglia.github.io/publication/2022_testingbigdataincovid19/</link>
-      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://lucabarbaglia.github.io/publication/2022_testingbigdataincovid19/</guid>
+      <title>Forecasting Loan Default in Europe with Machine Learning</title>
+      <link>https://lucabarbaglia.github.io/publication/2021_ed_default/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2021_ed_default/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Detecting Anti-dumping Circumvention: A Network Approach</title>
-      <link>https://lucabarbaglia.github.io/publication/2022_antidumping/</link>
-      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://lucabarbaglia.github.io/publication/2022_antidumping/</guid>
+      <title>Testing Big Data in a Big Crisis: Nowcasting under COVID-19</title>
+      <link>https://lucabarbaglia.github.io/publication/2022_testingbigdataincovid19/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2022_testingbigdataincovid19/</guid>
       <description></description>
     </item>
     
@@ -176,10 +185,10 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Forecasting Loan Default in Europe with Machine Learning</title>
-      <link>https://lucabarbaglia.github.io/publication/2021_ed_default/</link>
-      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://lucabarbaglia.github.io/publication/2021_ed_default/</guid>
+      <title>Detecting Anti-dumping Circumvention: A Network Approach</title>
+      <link>https://lucabarbaglia.github.io/publication/2022_antidumping/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucabarbaglia.github.io/publication/2022_antidumping/</guid>
       <description></description>
     </item>
     
@@ -286,14 +295,6 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Household Debt and Economic Growth in Europe</title>
-      <link>https://lucabarbaglia.github.io/publication/2020_ed_macro/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://lucabarbaglia.github.io/publication/2020_ed_macro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Monitoring the Business Cycle with Fine-Grained, Aspect-Based Sentiment Extraction from News</title>
       <link>https://lucabarbaglia.github.io/publication/2020_dna_midas/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0100</pubDate>
@@ -337,7 +338,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-813572496&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-297684513&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -347,7 +348,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-813572496&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-297684513&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
