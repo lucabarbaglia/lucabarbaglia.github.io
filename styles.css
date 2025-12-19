@@ -1,0 +1,77 @@
+/* css styles */
+
+.cookie-banner {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 15px;
+  background: #333;
+  color: white;
+  text-align: center;
+  z-index: 9999;
+}
+
+.cookie-btn {
+  margin-left: 10px;
+  padding: 6px 14px;
+  background: #0d6efd;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.cookie-btn:hover {
+  background: #0b5ed7;
+}
+
+/* PHOTO */
+.about-photo {
+  width: 150px;           /* adjust size as you like */
+  border-radius: 10px;    /* small rounding for a modern look — or set to 0 */
+  float: right;
+  margin: 0 0 15px 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* ICONS */
+.social-icons {
+  margin-top: 12px;
+  margin-bottom: 20px;
+}
+
+.social-icons a {
+  text-decoration: none;
+  margin-right: 12px;
+  font-size: 1.6rem;     /* for bootstrap icons */
+  color: #444;
+}
+
+.social-icons a:hover {
+  color: #0d6efd;
+}
+
+.icon-img {
+  width: 22px;            /* matches Bootstrap icon size */
+  height: auto;
+  vertical-align: middle;
+  filter: grayscale(20%);
+}
+
+.icon-img:hover {
+  filter: grayscale(0%);
+}
+
+
+/* LINKS */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;   /* nicer spacing */
+}
+
+
